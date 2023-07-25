@@ -1,0 +1,1 @@
+ansible-playbook --inventory hosts --syntax-check playbook-self.yml --connection=local
